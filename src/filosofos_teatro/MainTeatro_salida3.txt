@@ -1,0 +1,105 @@
+/home/iker/.jdks/openjdk-17/bin/java -javaagent:/home/iker/idea-IC-212.5284.40/lib/idea_rt.jar=42529:/home/iker/idea-IC-212.5284.40/bin -Dfile.encoding=UTF-8 -classpath /home/iker/Dropbox/Workspaces/Java-intelliJ-workspace-2021-1er/out/production/Java-intelliJ-workspace-2021-1er filosofos_teatro.MainTeatro
+Filosofo 1 aqui tiene la entrada numero: 1
+Quedan 49 entradas
+Filosofo 1 aqui tiene la entrada numero: 2
+Quedan 48 entradas
+Filosofo 1 aqui tiene la entrada numero: 3
+Quedan 47 entradas
+Filosofo 2 aqui tiene la entrada numero: 4
+Quedan 46 entradas
+Filosofo 1 aqui tiene la entrada numero: 5
+Quedan 45 entradas
+Filosofo 2 aqui tiene la entrada numero: 6
+Quedan 44 entradas
+Filosofo 1 aqui tiene la entrada numero: 7
+Quedan 43 entradas
+Filosofo 2 aqui tiene la entrada numero: 8
+Quedan 42 entradas
+Filosofo 1 aqui tiene la entrada numero: 9
+Quedan 41 entradas
+Filosofo 2 aqui tiene la entrada numero: 10
+Quedan 40 entradas
+Filosofo 4 aqui tiene la entrada numero: 11
+Quedan 39 entradas
+Filosofo 1 aqui tiene la entrada numero: 12
+Quedan 38 entradas
+Filosofo 2 aqui tiene la entrada numero: 13
+Quedan 37 entradas
+Filosofo 4 aqui tiene la entrada numero: 14
+Quedan 36 entradas
+Filosofo 1 aqui tiene la entrada numero: 15
+Quedan 35 entradas
+Filosofo 2 aqui tiene la entrada numero: 16
+Quedan 34 entradas
+Filosofo 4 aqui tiene la entrada numero: 17
+Quedan 33 entradas
+Filosofo 1 aqui tiene la entrada numero: 18
+Quedan 32 entradas
+Filosofo 2 aqui tiene la entrada numero: 19
+Quedan 31 entradas
+Filosofo 4 aqui tiene la entrada numero: 20
+Quedan 30 entradas
+Filosofo 1 aqui tiene la entrada numero: 21
+Quedan 29 entradas
+Filosofo 2 aqui tiene la entrada numero: 22
+Quedan 28 entradas
+Filosofo 4 aqui tiene la entrada numero: 23
+Quedan 27 entradas
+Filosofo 2 aqui tiene la entrada numero: 24
+Quedan 26 entradas
+Filosofo 4 aqui tiene la entrada numero: 25
+Quedan 25 entradas
+Filosofo 5 aqui tiene la entrada numero: 26
+Quedan 24 entradas
+Filosofo 2 aqui tiene la entrada numero: 27
+Quedan 23 entradas
+Filosofo 4 aqui tiene la entrada numero: 28
+Quedan 22 entradas
+Filosofo 5 aqui tiene la entrada numero: 29
+Quedan 21 entradas
+Filosofo 4 aqui tiene la entrada numero: 30
+Quedan 20 entradas
+Filosofo 5 aqui tiene la entrada numero: 31
+Quedan 19 entradas
+Filosofo 3 aqui tiene la entrada numero: 32
+Quedan 18 entradas
+Filosofo 4 aqui tiene la entrada numero: 33
+Quedan 17 entradas
+Filosofo 5 aqui tiene la entrada numero: 34
+Quedan 16 entradas
+Filosofo 3 aqui tiene la entrada numero: 35
+Quedan 15 entradas
+Filosofo 4 aqui tiene la entrada numero: 36
+Quedan 14 entradas
+Filosofo 5 aqui tiene la entrada numero: 37
+Quedan 13 entradas
+Filosofo 3 aqui tiene la entrada numero: 38
+Quedan 12 entradas
+Filosofo 5 aqui tiene la entrada numero: 39
+Quedan 11 entradas
+Filosofo 3 aqui tiene la entrada numero: 40
+Quedan 10 entradas
+Filosofo 5 aqui tiene la entrada numero: 41
+Quedan 9 entradas
+Filosofo 3 aqui tiene la entrada numero: 42
+Quedan 8 entradas
+Filosofo 5 aqui tiene la entrada numero: 43
+Quedan 7 entradas
+Filosofo 3 aqui tiene la entrada numero: 44
+Quedan 6 entradas
+Filosofo 5 aqui tiene la entrada numero: 45
+Quedan 5 entradas
+Filosofo 3 aqui tiene la entrada numero: 46
+Quedan 4 entradas
+Filosofo 5 aqui tiene la entrada numero: 47
+Quedan 3 entradas
+Filosofo 3 aqui tiene la entrada numero: 48
+Quedan 2 entradas
+Filosofo 1 aqui tiene la entrada numero: 49
+Quedan 1 entradas
+Filosofo 2 aqui tiene la entrada numero: 50
+Quedan 0 entradas
+Cierro la venta de entradas
+
+Process finished with exit code 0
+

@@ -1,0 +1,123 @@
+/home/iker/.jdks/openjdk-17/bin/java -javaagent:/home/iker/idea-IC-212.5284.40/lib/idea_rt.jar=32907:/home/iker/idea-IC-212.5284.40/bin -Dfile.encoding=UTF-8 -classpath /home/iker/Dropbox/Workspaces/Java-intelliJ-workspace-2021-1er/out/production/Java-intelliJ-workspace-2021-1er filosofos_teatro.Main
+Soy filosofo 3 he cogido un ordenador
+Soy filosofo 1 he cogido un teclado
+Soy filosofo 1 he cogido un ordenador y ya tenia un teclado
+Soy filosofo 1 y voy a empezar a pedir entradas
+Soy Filosofo 3 y suelto el ordenador
+Soy Filosofo 1 y tengo la entrada numero: 1
+Soy filosofo 5 he cogido un teclado
+Soy Filosofo 5 y suelto el teclado
+Soy filosofo 2 he cogido un teclado
+Soy Filosofo 2 y suelto el teclado
+Soy filosofo 4 he cogido un teclado
+Soy Filosofo 4 y suelto el teclado
+Soy Filosofo 1 y tengo la entrada numero: 2
+Soy filosofo 2 he cogido un teclado
+Soy filosofo 2 he cogido un ordenador y ya tenia un teclado
+Soy filosofo 2 y voy a empezar a pedir entradas
+Soy Filosofo 1 y tengo la entrada numero: 3
+Soy Filosofo 2 y tengo la entrada numero: 4
+Soy filosofo 5 he cogido un ordenador
+Soy Filosofo 1 y tengo la entrada numero: 5
+Soy Filosofo 5 y suelto el ordenador
+Soy filosofo 3 he cogido un ordenador
+Soy Filosofo 2 y tengo la entrada numero: 6
+Soy Filosofo 3 y suelto el ordenador
+Soy Filosofo 1 y tengo la entrada numero: 7
+Soy filosofo 4 he cogido un ordenador
+Soy Filosofo 2 y tengo la entrada numero: 8
+Soy filosofo 4 he cogido un teclado y ya tenia un ordenador
+Soy filosofo 4 y voy a empezar a pedir entradas
+Soy Filosofo 1 y tengo la entrada numero: 9
+Soy Filosofo 2 y tengo la entrada numero: 10
+Soy Filosofo 4 y tengo la entrada numero: 11
+Soy Filosofo 1 y tengo la entrada numero: 12
+Soy Filosofo 2 y tengo la entrada numero: 13
+Soy Filosofo 4 y tengo la entrada numero: 14
+Soy Filosofo 1 y tengo la entrada numero: 15
+Soy Filosofo 2 y tengo la entrada numero: 16
+Soy Filosofo 4 y tengo la entrada numero: 17
+Soy Filosofo 1 y tengo la entrada numero: 18
+Soy Filosofo 2 y tengo la entrada numero: 19
+Soy Filosofo 4 y tengo la entrada numero: 20
+Soy Filosofo 1 y tengo la entrada numero: 21
+Soy Filosofo 1 y suelto el ordenador y teclado
+Soy Filosofo 2 y tengo la entrada numero: 22
+Soy filosofo 5 he cogido un ordenador
+Soy Filosofo 4 y tengo la entrada numero: 23
+Soy filosofo 5 he cogido un teclado y ya tenia un ordenador
+Soy filosofo 5 y voy a empezar a pedir entradas
+Soy Filosofo 2 y tengo la entrada numero: 24
+Soy Filosofo 4 y tengo la entrada numero: 25
+Soy Filosofo 5 y tengo la entrada numero: 26
+Soy Filosofo 2 y tengo la entrada numero: 27
+Soy Filosofo 2 y suelto el ordenador y teclado
+Soy Filosofo 4 y tengo la entrada numero: 28
+Soy filosofo 3 he cogido un ordenador
+Soy Filosofo 5 y tengo la entrada numero: 29
+Soy filosofo 3 he cogido un teclado y ya tenia un ordenador
+Soy filosofo 3 y voy a empezar a pedir entradas
+Soy Filosofo 4 y tengo la entrada numero: 30
+Soy Filosofo 5 y tengo la entrada numero: 31
+Soy Filosofo 3 y tengo la entrada numero: 32
+Soy Filosofo 4 y tengo la entrada numero: 33
+Soy Filosofo 5 y tengo la entrada numero: 34
+Soy Filosofo 3 y tengo la entrada numero: 35
+Soy Filosofo 4 y tengo la entrada numero: 36
+Soy Filosofo 4 y suelto el ordenador y teclado
+Soy Filosofo 5 y tengo la entrada numero: 37
+Soy filosofo 1 he cogido un teclado
+Soy Filosofo 1 y suelto el teclado
+Soy filosofo 4 he cogido un ordenador
+Soy Filosofo 3 y tengo la entrada numero: 38
+Soy filosofo 2 he cogido un teclado
+Soy Filosofo 2 y suelto el teclado
+Soy Filosofo 4 y suelto el ordenador
+Soy Filosofo 5 y tengo la entrada numero: 39
+Soy filosofo 2 he cogido un teclado
+Soy Filosofo 2 y suelto el teclado
+Soy Filosofo 3 y tengo la entrada numero: 40
+Soy filosofo 4 he cogido un teclado
+Soy Filosofo 4 y suelto el teclado
+Soy Filosofo 5 y tengo la entrada numero: 41
+Soy filosofo 2 he cogido un teclado
+Soy Filosofo 2 y suelto el teclado
+Soy Filosofo 3 y tengo la entrada numero: 42
+Soy filosofo 1 he cogido un teclado
+Soy Filosofo 1 y suelto el teclado
+Soy Filosofo 5 y tengo la entrada numero: 43
+Soy filosofo 1 he cogido un teclado
+Soy Filosofo 1 y suelto el teclado
+Soy filosofo 4 he cogido un teclado
+Soy Filosofo 4 y suelto el teclado
+Soy Filosofo 3 y tengo la entrada numero: 44
+Soy filosofo 4 he cogido un teclado
+Soy Filosofo 4 y suelto el teclado
+Soy Filosofo 5 y tengo la entrada numero: 45
+Soy Filosofo 3 y tengo la entrada numero: 46
+Soy filosofo 2 he cogido un teclado
+Soy Filosofo 2 y suelto el teclado
+Soy filosofo 4 he cogido un teclado
+Soy Filosofo 4 y suelto el teclado
+Soy Filosofo 5 y tengo la entrada numero: 47
+Soy Filosofo 5 y suelto el ordenador y teclado
+Soy filosofo 1 he cogido un teclado
+Soy filosofo 1 he cogido un ordenador y ya tenia un teclado
+Soy filosofo 1 y voy a empezar a pedir entradas
+Soy filosofo 2 he cogido un teclado
+Soy filosofo 2 he cogido un ordenador y ya tenia un teclado
+Soy filosofo 2 y voy a empezar a pedir entradas
+Soy Filosofo 3 y tengo la entrada numero: 48
+Soy Filosofo 1 y tengo la entrada numero: 49
+Soy Filosofo 2 y tengo la entrada numero: 50
+Soy Filosofo 3 y suelto el ordenador y teclado
+Soy Filosofo 2 y suelto el ordenador y teclado
+Soy Filosofo 1 y suelto el ordenador y teclado
+Soy el filosofo 3 y he comprado 8 entradas.
+Soy el filosofo 1 y he comprado 11 entradas.
+Soy el filosofo 5 y he comprado 10 entradas.
+Soy el filosofo 2 y he comprado 11 entradas.
+Soy el filosofo 4 y he comprado 10 entradas.
+
+Process finished with exit code 0
+
